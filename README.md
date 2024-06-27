@@ -7,19 +7,6 @@ Presentation: https://www.figma.com/file/Y3EG3vH5d9gw2NYOn5s3fu/Campus-Collabora
 •	 Campus Collaborate
 Campus Collaborate is a web application designed for students to collaborate, showcase their projects, and connect with like-minded peers. This platform aims to enhance the user experience and foster collaboration among students. Below are the key features and information to help you get started with the application.
 
-•	Table of Contents
-1.	Features
-2.	Getting Started
-3.	Prerequisites
-4.	Installation
-5.	Usage
-6.	Project Showcase
-7.	User Profiles
-8.	Rating and Feedback
-9.	Ask-for-Help
-10.	Course Review
-11.	Contributing
-
  Features
 1) Project Showcase
 (a) Students can post project details including descriptions, objectives, technologies, and outcomes.
